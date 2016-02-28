@@ -1,3 +1,8 @@
+inpost_demo:
+    resource: "@DemoBundle/Controller/"
+    type: annotation
+
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation
